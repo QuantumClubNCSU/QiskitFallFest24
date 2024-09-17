@@ -1,5 +1,5 @@
 # Qiskit Fall Fest (Halloween edition)
-At NCSU Oct 28th 2023 9:00AM US ET
+At NCSU Oct 28th 2024 9:00AM US ET
 
 Brought to you by the Quantum Club https://quantuminformationclub.wordpress.ncsu.edu/
 
